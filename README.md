@@ -56,8 +56,8 @@ When brought back online:
 
   ### Repository
 
-  - [Github](https://github.com/EMackPierre/Workout-Tracker)
-  - [Heroku](https://salty-harbor-27555.herokuapp.com/)
+  - [Github](https://github.com/EMackPierre/Online-Offline-Budget-Trackers)
+  - [Heroku](https://powerful-escarpment-86900.herokuapp.com/)
 
   ### Questions
 
